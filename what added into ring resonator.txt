@@ -1,0 +1,11 @@
+1. first changed lda0 to lda1 in all parameter, because lda0 exist from before
+1.1 first added analytics1(w), analytics 2 (eta), analytics 3 (R)
+2. then added, (ewt), perfect magnetic conductor 1, at side boundary [pg 10]
+3. then added, (ewt0, scattering boundary condition [pg 10]
+
+4. then, Wave Equation, Electric 1, [pg 11]
+5*. then added mesh, instead of boundaries 1,3, chosen the boundaries as port 1 and port 2
+6. follow the pdf same upto, page 12
+
+7*. then added, time domain for study, i.e step 4 time dependent
+8. instead of solution 1, since it exist, created solution 2 (ewt)
